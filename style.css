@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    padding: 0px;
+background-image: url("./800px_COLOURBOX1285853.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.container{
+    border: 1px solid black;
+    width: 350px;
+    height: 520px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: #1d113aec;
+    border-radius: 20px;
+}
+.btn{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    border: none;
+    margin: 2px;
+    background-color: rgba(48, 45, 45, 0.89);
+    color: white;
+    font-size: 25px;
+}
+.btnAc{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 150px;
+    height: 70px;
+    border-radius: 20px;
+    border: none;
+    background-color: #fe9427;;
+    color: white;
+    font-size: 25px;
+}
+.screen{
+    background-color: #1d113aec;
+    width: 340px;
+    height: 130px;
+    margin-top: 10px;
+    margin-left: 4px;
+    border-radius: 20%;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 35px;
+}
+.screen:focus{
+    border: none;
+}
+.btn0{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 70px;
+    width: 150px;
+    border: none;
+    background-color: #fe9427;;
+    color: white;
+    border-radius: 20px;
+    font-size: 25px;
+}
+.buttonsCart{
+    margin-left: 20px;
+}
